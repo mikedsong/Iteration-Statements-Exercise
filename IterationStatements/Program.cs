@@ -29,7 +29,7 @@ namespace IterationStatements
         {
             if (numOne == numTwo)
             {
-                Console.WriteLine("{numOne} and {numTwo} are the same!");
+                Console.WriteLine($"{numOne} and {numTwo} are the same!");
             }
             else
             {
